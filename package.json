@@ -1,7 +1,6 @@
 {
-  "name": "invoice-generator",
+  "name": "sn-react-invoice-generator",
   "version": "0.2.1",
-  "private": true,
   "type": "module",
   "homepage": "https://tuanpham-dev.github.io/react-invoice-generator/",
   "scripts": {
@@ -38,5 +37,16 @@
     "@types/react-dom": "^18.2.23",
     "@types/react-textarea-autosize": "^8.0.0",
     "prettier": "^3.2.5"
+  },
+  "description": "React Invoice Generator allows you quickly make invoices and save them as PDF. [https://tuanpham-dev.github.io/react-invoice-generator/](https://tuanpham-dev.github.io/react-invoice-generator/)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sketchnote-team/react-invoice-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sketchnote-team/react-invoice-generator/issues"
   }
 }
